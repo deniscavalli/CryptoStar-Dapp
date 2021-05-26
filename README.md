@@ -34,8 +34,13 @@ npm init
 npm install
 ```
 
+2. Install packages for the truffle compilation
+On the root directory, run:
+```bash
+npm install
+```
 
-2. Start Truffle by running
+3. Start Truffle by running
 ```bash
 # For starting the development console
 truffle develop
@@ -51,7 +56,7 @@ migrate --reset
 test
 ```
 
-3. Frontend - Once you are ready to start your frontend, run the following from the app folder:
+4. Frontend - Once you are ready to start your frontend, run the following from the app folder:
 ```bash
 cd app
 npm run dev
