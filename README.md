@@ -1,6 +1,23 @@
 # CryptoStar-Dapp 
 Decentralized Star Notary.
 
+#### Name
+Crypto Dolar
+
+#### Symbol
+CRYDO
+
+#### Address on Rinkeby Network
+0x0ADc02226e26481DA1B0a55fd118A7AB4a436744
+
+### Truffle version output
+Truffle v5.3.6 (core: 5.3.6)
+Solidity v0.5.16 (solc-js)
+Node v10.19.0
+Web3.js v1.3.5
+
+#### Openzeppelin version
+2.3.0
 ### Run the application
 1. Clean the frontend 
 ```bash
@@ -68,3 +85,4 @@ compilers: {
     // docker: true,
     // ...
 ```
+y
